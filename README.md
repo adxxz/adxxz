@@ -4,6 +4,8 @@
 
 # adxxz
 
+  <img src="assets/banner.gif" alt="Banner GitHub" width="100%" />
+
 > Frontend or full-stack engineer
 
 <p align="center">
