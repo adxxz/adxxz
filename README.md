@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/streak-3%20days-E53935?style=for-the-badge&logo=fireship&logoColor=white&labelColor=0d0d0d" alt="streak" />
 
 <p align="center">
-  <a href="https://github.com/adxxz"><img src="assets/hero-card.svg" width="100%" alt="adxxz hero card" /></a>
+  <a href="https://github.com/adxxz"><img src="assets/hero-card%20(1).svg" width="100%" alt="adxxz hero card" /></a>
 </p>
 
 </div>
@@ -32,7 +32,7 @@
 ## 🛠️ Tech toolbox
 
 <p align="center">
-  <img src="assets/toolbox.svg" width="100%" alt="Tech toolbox" />
+  <img src="assets/toolbox%20(1).svg" width="100%" alt="Tech toolbox" />
 </p>
 
 ## 🚀 Things I’m building
