@@ -37,11 +37,13 @@
 
 ## 🚀 Things I’m building
 
-<table>
-<tr><td width="32%"><b><a href="https://github.com/adxxz/adxxz">adxxz</a></b></td><td>A selected project from this GitHub profile.<br/><sub>open source · 0 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/adxxz/adityayudhap775-sudo">adityayudhap775-sudo</a></b></td><td>A selected project from this GitHub profile.<br/><sub>open source · 0 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/adxxz/aditweb">aditweb</a></b></td><td>A selected project from this GitHub profile.<br/><sub>HTML · 0 stars</sub></td></tr>
-</table>
+<p align="center">
+  <a href="https://github.com/adxxz/adxxz"><img src="assets/project-1.svg" width="100%" alt="adxxz" /></a>
+  <br/>
+  <a href="https://github.com/adxxz/adityayudhap775-sudo"><img src="assets/project-2.svg" width="100%" alt="adityayudhap775-sudo" /></a>
+  <br/>
+  <a href="https://github.com/adxxz/aditweb"><img src="assets/project-3.svg" width="100%" alt="aditweb" /></a>
+</p>
 
 ## 📡 Signals
 
