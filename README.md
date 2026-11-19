@@ -1,7 +1,35 @@
 
 
 <
+#
 ## Ship · learn · repeat
+
+<table width="100%" bgcolor="#190905" border="1">
+<tr>
+<td width="22%" align="center">
+<br/>
+<img src="https://github.com/adxxz.png"
+     width="110"
+     alt="Profile"/>
+<br/><br/>
+</td>
+
+<td width="78%" align="center">
+<img src="assets/banner.gif"
+     width="100%"
+     alt="Anime Banner"/>
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+# adxxz
+
+> Frontend or full-stack engineer
+
+</div>
+Ship · learn · repeat
 
 <table>
 <tr>
