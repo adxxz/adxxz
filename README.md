@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner-animated.svg" width="100%" alt="Anime animated banner with rotating stroke" />
+<img src="assets/banner-animated-v2.svg" width="100%" alt="Anime animated banner with rotating stroke" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=0,12,24&text=adxxz&fontColor=ffffff&fontSize=56&fontAlignY=40&animation=fadeIn&desc=Ship%20%C2%B7%20learn%20%C2%B7%20repeat&descSize=18&descAlignY=65" width="100%" alt="adxxz header" />
 
