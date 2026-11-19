@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/streak-3%20days-E53935?style=for-the-badge&logo=fireship&logoColor=white&labelColor=0d0d0d" alt="streak" />
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=adxxz&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F355265931%3Fv%3D4" alt="adxxz hero visual" />
+  <img src="https://www.gitskins.com/api/section/hero?username=adxxz&theme=satan&avatar=https%3A%2F%2Fraw.githubusercontent.com%2Fadxxz%2Fadxxz%2Fmain%2Fassets%2Favatar.jpg" alt="adxxz hero visual" />
 </p>
 
 </div>
