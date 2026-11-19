@@ -2,7 +2,7 @@
 
 <img src="assets/banner-animated-v2.svg" width="100%" alt="Anime animated banner with rotating stroke" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=0,12,24&text=adxxz&fontColor=ffffff&fontSize=56&fontAlignY=40&animation=fadeIn&desc=Ship%20%C2%B7%20learn%20%C2%B7%20repeat&descSize=18&descAlignY=65" width="100%" alt="adxxz header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:FF9A3C,100:E8501A&text=adxxz&fontColor=ffffff&fontSize=56&fontAlignY=36&animation=fadeIn&desc=Ship%20%C2%B7%20learn%20%C2%B7%20repeat&descSize=18&descAlignY=56" width="100%" alt="adxxz header" />
 
 <a href="https://github.com/adxxz">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=FF2E63&center=true&vCenter=true&width=520&lines=Frontend+%7C+Full-stack+Engineer;Building+useful+things;Learning+in+public;Small%2C+useful+work+over+vague+claims" alt="Typing intro" />
@@ -21,7 +21,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=0,12,24" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:FF9A3C,100:E8501A" width="100%" alt="divider" />
 
 ## 🔥 The current loop
 
@@ -71,4 +71,4 @@
 
 <p align="center"><sub>adxxz · Indie hacker profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=0,12,24&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:FF9A3C,100:E8501A&section=footer" width="100%" alt="footer" />
