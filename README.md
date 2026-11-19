@@ -25,9 +25,9 @@
 
 ## 🔥 The current loop
 
-> Building useful things and learning in public.
-
-*Small, useful work over vague claims.*
+<p align="center">
+  <img src="assets/loop-card.svg" width="100%" alt="Building useful things and learning in public. Small, useful work over vague claims." />
+</p>
 
 ## 🛠️ Tech toolbox
 
