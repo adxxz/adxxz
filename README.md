@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/streak-3%20days-E53935?style=for-the-badge&logo=fireship&logoColor=white&labelColor=0d0d0d" alt="streak" />
 
 <p align="center">
-  <a href="https://github.com/adxxz"><img src="assets/hero-card.svg" width="100%" alt="adxxz hero card" /></a>
+  <a href="https://github.com/adxxz"><img src="assets/hero-card%20(1).svg" width="100%" alt="adxxz hero card" /></a>
 </p>
 
 </div>
@@ -32,7 +32,7 @@
 ## 🛠️ Tech toolbox
 
 <p align="center">
-  <img src="assets/toolbox.svg" width="100%" alt="Tech toolbox" />
+  <img src="assets/toolbox%20(1).svg" width="100%" alt="Tech toolbox" />
 </p>
 
 ## 🚀 Things I’m building
@@ -48,7 +48,7 @@
 ## 📡 Signals
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=adxxz&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F355265931%3Fv%3D4" alt="adxxz stats visual" />
+  <img src="assets/signals-card.svg" width="100%" alt="Profile signals" />
 </p>
 
 <p align="center"><code>10 contributions</code> · <code>3 day streak</code></p>
@@ -56,13 +56,13 @@
 ## 📅 The shipping calendar
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=adxxz&theme=satan" alt="adxxz contribution activity" />
+  <img src="assets/heatmap-card.svg" width="100%" alt="Contribution activity" />
 </p>
 
 ## 🤝 Work with me
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=adxxz&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F355265931%3Fv%3D4" alt="adxxz social visual" />
+  <a href="https://github.com/adxxz"><img src="assets/social-card.svg" width="100%" alt="GitHub @adxxz" /></a>
 </p>
 
 <p align="center">
