@@ -56,7 +56,7 @@
 ## 📅 The shipping calendar
 
 <p align="center">
-  <img src="assets/heatmap-card.svg" width="100%" alt="Contribution activity" />
+  <img src="assets/heatmap-card(1).svg" width="100%" alt="Contribution activity" />
 </p>
 
 ## 🤝 Work with me
